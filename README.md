@@ -14,7 +14,7 @@
 pip install -r requirements.txt
 pytest tests/
 
-Структура проекта
+## Структура проекта
 
 ├── tests/           # Папка с тестами  
 ├── requirements.txt # Список зависимостей  
